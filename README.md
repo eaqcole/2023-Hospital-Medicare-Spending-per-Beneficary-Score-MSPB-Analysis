@@ -45,7 +45,7 @@ Emily Quick-Cole
 
 ## Ouptuts
 [Medicare_report.pdf](https://github.com/user-attachments/files/22932931/Medicare_report.pdf)
-![One Pager](2023MSPBReport.pdf)
+<object data="2023MSPBReport.pdf" width="1000" height="1000" type='application/pdf'/>
 ![Map Image](MSPBmap.png)
 ![Regional Table](regional_table.png)
 
