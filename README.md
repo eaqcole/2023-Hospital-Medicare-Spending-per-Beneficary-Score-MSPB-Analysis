@@ -10,7 +10,7 @@ The following steps were conducted within this analysis:
 4. Create the map graphic.
 5. Create a variable that assigns to each row a region based on which state the hospital is located.
 6. Take the median MSPB value for each region.
-7. Create a table that contains median MPBS values by U.S. region.
+7. Create a table that contains median MSPB values by U.S. region.
 8. Stylize and output the table.
 9. Create functions that will be used to design our PDF output (header/subheadings etc.)
 10. Write the background information, findings, and conclusionary statements to the PDF.
