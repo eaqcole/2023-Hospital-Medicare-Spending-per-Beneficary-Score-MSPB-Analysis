@@ -54,7 +54,7 @@ https://pandas.pydata.org/docs/user_guide/style.html
 ## Author
 Emily Quick-Cole
 
-## Ouptuts
+## Outputs
 [2023 MSPB Report.pdf](https://github.com/user-attachments/files/22932931/Medicare_report.pdf)
 <object data="2023MSPBReport.pdf" width="1000" height="1000" type='application/pdf'/>
 
