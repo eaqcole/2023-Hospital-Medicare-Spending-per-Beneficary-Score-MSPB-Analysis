@@ -57,6 +57,8 @@ Emily Quick-Cole
 ## Output
 [2023MSPBReport.pdf]
 
+![](2023MSPBReport.pdf)
+
 ## Figures
 ![Regional Table](regional_table.png)
 
