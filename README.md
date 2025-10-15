@@ -48,9 +48,8 @@ Emily Quick-Cole
 <object data="2023MSPBReport.pdf" width="1000" height="1000" type='application/pdf'/>
 
 ## Figures
-![Map Image](MSPBmap.png)
 ![Regional Table](regional_table.png)
 
-
+![Map Image](MSPBmap.png)
 
 
