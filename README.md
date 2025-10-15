@@ -55,7 +55,7 @@ https://pandas.pydata.org/docs/user_guide/style.html
 Emily Quick-Cole
 
 ## Output
-[2023 MSPB Report]()
+[2023 MSPB Report](https://github.com/eaqcole/2023-Hospital-Medicare-Spending-per-Beneficary-Score-MSPB-Analysis/blob/1d57700ae1ac30f4eb7e572889142864f647013b/2023MSPBReport.pdf)
 
 ## Figures
 ![Regional Table](regional_table.png)
