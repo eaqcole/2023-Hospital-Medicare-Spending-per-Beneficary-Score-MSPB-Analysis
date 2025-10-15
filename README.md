@@ -55,7 +55,7 @@ https://pandas.pydata.org/docs/user_guide/style.html
 Emily Quick-Cole
 
 ## Output
-[2023 MSPB Report.pdf](https://github.com/user-attachments/files/22932931/2023MSPBReport.pdf)
+[2023 MSPB Report]()
 
 ## Figures
 ![Regional Table](regional_table.png)
