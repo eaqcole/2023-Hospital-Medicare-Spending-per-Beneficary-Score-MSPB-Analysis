@@ -54,8 +54,8 @@ https://pandas.pydata.org/docs/user_guide/style.html
 ## Author
 Emily Quick-Cole
 
-## Outputs
-<object data="2023MSPBReport.pdf" width="1000" height="1000" type='application/pdf'/>
+## Output
+[2023MSPBReport.pdf]
 
 ## Figures
 ![Regional Table](regional_table.png)
